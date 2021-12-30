@@ -1,1 +1,5 @@
 *.mp4
+create_video.py
+*.txt
+old
+create_random_msg.py
